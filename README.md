@@ -1,6 +1,7 @@
 # 🧠Blind-75 Leetcode Questions - Topicwise 
 
 1. Arrays & Hashing
+
 Two Sum
 
 Group Anagrams
@@ -20,6 +21,7 @@ Top K Frequent Elements
 Longest Consecutive Sequence
 
 2. Two Pointers
+   
 Valid Palindrome
 
 Two Sum II - Input Array Is Sorted
@@ -31,6 +33,7 @@ Container With Most Water
 Trapping Rain Water
 
 3. Sliding Window
+   
 Best Time to Buy and Sell Stock
 
 Longest Substring Without Repeating Characters
@@ -42,6 +45,7 @@ Minimum Window Substring
 Permutation in String
 
 4. Stack
+   
 Valid Parentheses
 
 Min Stack
@@ -57,6 +61,7 @@ Car Fleet
 Largest Rectangle in Histogram
 
 5. Binary Search
+   
 Binary Search
 
 Search a 2D Matrix
@@ -70,6 +75,7 @@ Time Based Key-Value Store
 Median of Two Sorted Arrays
 
 6. Linked List
+  
 Reverse Linked List
 
 Merge Two Sorted Lists
@@ -85,6 +91,7 @@ Add Two Numbers
 Linked List Cycle
 
 7. Trees
+   
 Invert Binary Tree
 
 Maximum Depth of Binary Tree
@@ -108,11 +115,13 @@ Binary Tree Maximum Path Sum
 Serialize and Deserialize Binary Tree
 
 8. Tries
+   
 Implement Trie (Prefix Tree)
 
 Word Search II
 
 9. Heap / Priority Queue
+    
 Merge K Sorted Lists
 
 Top K Frequent Elements
@@ -120,6 +129,7 @@ Top K Frequent Elements
 Find Median from Data Stream
 
 10. Backtracking
+    
 Subsets
 
 Combination Sum
@@ -133,6 +143,7 @@ Palindrome Partitioning
 N-Queens
 
 11. Graphs
+    
 Clone Graph
 
 Course Schedule
@@ -150,6 +161,7 @@ Graph Valid Tree
 Word Ladder
 
 12. Dynamic Programming
+    
 Climbing Stairs
 
 Coin Change
