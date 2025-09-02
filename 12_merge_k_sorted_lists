@@ -1,1 +1,17 @@
 
+class solution{
+public static ListNode mergeksortedlists(ListNode[] lists){
+PriorityQueue<Integer> min=new PriorityQueue<>();
+for(ListNode list:lists){
+min.add(new ListNode(list.val));
+list=list.next;
+}
+ListNode temp=new ListNode(0);
+ListNode curr=temp;
+while(!min.isEmpty()){
+curr=min.poll(new ListNode(list.val));
+curr.curr.next;
+}
+return temp.next;
+}
+}
